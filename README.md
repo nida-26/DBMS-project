@@ -7,8 +7,6 @@ The system is divided into two modules:
 
 With its user-friendly design, this system ensures ease of use for both administrators and customers, enhancing the overall hotel management experience.
 
-***NOTE : Please read installation and execution steps present at the bottom before downloading. Thank you***
-
 ### How To Run The Project?
 
 ## Installtion and execution procedure
@@ -25,6 +23,6 @@ With its user-friendly design, this system ensures ease of use for both administ
  
  - 6 : Click on browse file and select “hotel-mangement-system.sql” file which is inside the “Hotel-Management-System” folder and Click ‘GO’.
  
- - 7 : Open a browser and go to URL “http://localhost/Hotel-Management-System/customer.php”.
+ - 7 : Open a browser and go to URL “http://localhost/DBMS-project/customer.php”.
  
- ***NOTE : For admin panel, go to URL” http://localhost/Hotel-Management-System/admin.php”***
+ ***NOTE : For admin panel, go to URL” http://localhost/DBMS-project/admin.php”***
