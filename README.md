@@ -24,5 +24,3 @@ With its user-friendly design, this system ensures ease of use for both administ
  - 6 : Click on browse file and select “hotel-mangement-system.sql” file which is inside the “DBMS-project-main” folder and Click ‘GO’.
  
  - 7 : Open a browser and go to URL “http://localhost/DBMS-project-main/customer.php”.
- 
- ***NOTE : For admin panel, go to URL” http://localhost/DBMS-project-main/admin.php”***
