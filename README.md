@@ -19,10 +19,10 @@ With its user-friendly design, this system ensures ease of use for both administ
  
  - 4 : Open a browser and go to phpMyAdmin page “http://localhost/phpmyadmin/”.
  
- - 5 : Create a database naming “hotel-mangement-system” and then click on the import tab.
+ - 5 : Create a database naming “DBMS-project” and then click on the import tab.
  
- - 6 : Click on browse file and select “hotel-mangement-system.sql” file which is inside the “DBMS-project” folder and Click ‘GO’.
+ - 6 : Click on browse file and select “hotel-mangement-system.sql” file which is inside the “DBMS-project-main” folder and Click ‘GO’.
  
- - 7 : Open a browser and go to URL “http://localhost/DBMS-project/customer.php”.
+ - 7 : Open a browser and go to URL “http://localhost/DBMS-project-main/customer.php”.
  
- ***NOTE : For admin panel, go to URL” http://localhost/DBMS-project/admin.php”***
+ ***NOTE : For admin panel, go to URL” http://localhost/DBMS-project-main/admin.php”***
